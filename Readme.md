@@ -2,3 +2,6 @@
 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
 
 https://blog.csdn.net/weixin_44612221/article/details/112759578
+
+set_mode(0, 2, PI_OUTPUT)
+gpio_write(0, 2, 1)
